@@ -6,11 +6,11 @@ import {FaPlay} from 'react-icons/fa'
     <>
     <div className='home-container'>
     <video  autoPlay loop muted>
-<source src='videos/vid5.mp4'></source>
+<source src='./videos/vid3.mp4'></source>
 </video>
     <div>
     <h1>biggest adventure</h1>
-    <p>what are you still waiting for</p>
+    <p>what are you still waiting for?</p>
     <div className='container-btn'>
 <button className='btn1'>get started</button>
 <button className='btn2'>watch trailer <FaPlay className='center-fa'/></button>
