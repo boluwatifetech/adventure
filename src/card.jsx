@@ -10,7 +10,7 @@ function Card(){
 <div className='cover-image'>
     <img src='images/pic1.jpeg'/>
     <button>adventure</button>
-    <p>Explore the hidden waterfall</p>
+    <p>Explore the hidden waterfall in thailand </p>
 </div>
     </div>
      <div className='full-image'>
